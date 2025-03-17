@@ -1,0 +1,77 @@
+.details{
+    height: 350px;
+    width: 370px;
+    border: 1px solid gray;
+    padding-bottom: 75px;
+    margin-left: 500px;
+    border-top: -30px;
+}
+.instagram{
+    margin-left:115px ;
+
+}
+input{
+    width: 250px;
+    height: 30px;
+    margin-bottom: 34px;
+    margin-left: 55px ;
+}
+.login {
+    background-color: rgb(0, 162, 255);
+    color: white;
+    border-radius: 7px;
+    height:35px ;
+    width: 265px;
+    margin-left :50px; 
+    border: none;
+}
+.logo{
+    font-family: "Oleo Script", system-ui;
+}
+fieldset{
+    border-bottom: 0px; 
+    border-left: 0px;
+    border-right: 0px;
+    text-align: center;
+    width: 330px;
+}
+.p1{
+    margin-left: 110px;
+    color: rgb(0, 89, 255);
+    
+
+}
+.p2{
+    margin-left: 130px;
+}
+.box{
+   border:1px solid gray;
+   margin-top: 30px;
+   height: 70px;
+   width: 370px;
+   margin-left: 500px;
+}
+.l2{
+margin-left: 200px;
+margin-top: -35px;
+color: rgb(0, 157, 255);
+}
+.l1{
+    margin-left: 40px;
+}
+.l3{
+    margin-top: 20px;
+    margin-left: 650px;
+
+}
+img{
+    height: 40px;
+    width: 80px;
+  
+}
+.last{
+    display: flex;
+    gap: 30px;
+    justify-content: flex-start;
+    margin-left: 600px;
+}

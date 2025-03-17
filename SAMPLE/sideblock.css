@@ -1,0 +1,12 @@
+nav{
+    background-color: rgb(192, 121, 15);
+    height: 220px;
+    width: 120px;
+}
+a{
+    text-decoration: none;
+}
+li{
+    padding: 10px;
+
+}

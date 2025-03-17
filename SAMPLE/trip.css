@@ -1,0 +1,19 @@
+img{
+    width: 450px;
+    display: inline;
+    
+}
+.container{
+    display: flex;
+    gap: 60px;
+   justify-content: flex-start
+   
+   ;
+}
+.pic2{
+    position: relative;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 1000;
+    color: aliceblue;
+
+}

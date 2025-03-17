@@ -1,0 +1,19 @@
+nav{
+    background-color: aqua;
+    width: 1000px;
+    padding: 20px;
+
+}
+li{
+    display:inline;
+    margin-left: 20px;
+  
+
+}
+a{ 
+ text-decoration: none;
+}
+ul{
+    margin-left: 200px;
+    
+}
